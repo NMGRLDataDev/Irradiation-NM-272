@@ -1,0 +1,49 @@
+{
+    "aliquot": 4, 
+    "analysis_type": "detector_ic", 
+    "collection_version": "0.1:0.1", 
+    "comment": "", 
+    "commit": "8f6d9dca7472a91f5a7abaa4561d32e027c1e5dc", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "experiment_identifier": "Irradiation-NM-272", 
+    "identifier": "ic-01-O", 
+    "increment": null, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 14, 
+    "isotopes": {
+        "Ar40": {
+            "detector": "L1"
+        }
+    }, 
+    "mass_spectrometer": "obama", 
+    "material": "gas", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "sample": "air", 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2014-12-16T10:55:18", 
+    "username": "Jake", 
+    "uuid": "2ff72300-6012-41cb-9aec-8320a7bcf59a"
+}
